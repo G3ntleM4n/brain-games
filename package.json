@@ -1,0 +1,23 @@
+{
+	"name": "@hexlet/code",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/G3ntleM4n/brain-games.git"
+	},
+	"author": "Alexander Sokolov (alexsokolov123654@mail.ru)",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/G3ntleM4n/brain-games/issues"
+	},
+	"homepage": "https://github.com/G3ntleM4n/brain-games#readme",
+	"type": "module",
+	"bin": {
+		"brain-games": "bin/brain-games.js"
+	}
+}
